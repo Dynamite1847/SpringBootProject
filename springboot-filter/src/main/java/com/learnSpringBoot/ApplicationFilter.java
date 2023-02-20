@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApplicationServlet {
+public class ApplicationFilter {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApplicationServlet.class, args);
+		SpringApplication.run(ApplicationFilter.class, args);
 	}
 
 }

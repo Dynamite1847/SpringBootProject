@@ -1,3 +1,4 @@
 rootProject.name='SpringBootProject'
 include 'springboot-interceptor'
 include 'springboot-servlet'
+include 'springboot-filter'
