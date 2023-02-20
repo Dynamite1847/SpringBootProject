@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/pre" />
             <option value="$PROJECT_DIR$/springboot-interceptor" />
+            <option value="$PROJECT_DIR$/springboot-servlet" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -56,6 +56,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/springboot-first" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springboot-interceptor" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/springboot-interceptor" />
+            <option value="$PROJECT_DIR$/springboot-interceptor/springboot-interceptor" />
           </set>
         </option>
       </GradleProjectSettings>
