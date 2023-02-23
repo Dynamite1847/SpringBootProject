@@ -5,6 +5,9 @@
       <module name="com.learnSpringBoot.SpringBootProject" target="1.8" />
       <module name="com.learnSpringBoot.SpringBootProject.main" target="1.8" />
       <module name="com.learnSpringBoot.SpringBootProject.test" target="1.8" />
+      <module name="springboot-interceptor" target="1.8" />
+      <module name="springboot-interceptor.main" target="1.8" />
+      <module name="springboot-interceptor.test" target="1.8" />
       <module name="SpringBootProject.pre" target="1.8" />
       <module name="SpringBootProject.pre.main" target="1.8" />
       <module name="SpringBootProject.pre.test" target="1.8" />

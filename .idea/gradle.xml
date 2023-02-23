@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/springboot-charfilter" />
             <option value="$PROJECT_DIR$/springboot-filter" />
             <option value="$PROJECT_DIR$/springboot-interceptor" />
             <option value="$PROJECT_DIR$/springboot-servlet" />
@@ -65,8 +66,11 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/springboot-interceptor" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/springboot-charfilter" />
+            <option value="$PROJECT_DIR$/springboot-filter" />
             <option value="$PROJECT_DIR$/springboot-interceptor" />
-            <option value="$PROJECT_DIR$/springboot-interceptor/springboot-interceptor" />
+            <option value="$PROJECT_DIR$/springboot-servlet" />
           </set>
         </option>
       </GradleProjectSettings>
